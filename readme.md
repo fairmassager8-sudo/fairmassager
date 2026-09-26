@@ -49,7 +49,6 @@ https://drive.google.com/drive/folders/18dfoTHx-2fT7ZDmwySMtLVl-rX5wMC7l?usp=sha
 | **Average Odds Difference (AOD)** | Average disparity in TPR and FPR between unprivileged (U) and privileged (P) groups.<br><br>**AOD = ½[(TPR<sub>U</sub> − TPR<sub>P</sub>) + (FPR<sub>U</sub> − FPR<sub>P</sub>)]** | 0 | **Recall** | TP / (TP + FN) | 1 |
 | **Equal Opportunity Difference (EOD)** | Difference in TPR between unprivileged and privileged groups.<br><br>**EOD = TPR<sub>U</sub> − TPR<sub>P</sub>** | 0 | **Accuracy** | (TP + TN) / (TP + TN + FP + FN) | 1 |
 | **Statistical Parity Difference (SPD)** | Difference in probability of favorable outcome between groups.<br><br>**SPD = P(Ŷ = 1 \| a = 0) − P(Ŷ = 1 \| a = 1)** | 0 | **Precision** | TP / (TP + FP) | 1 |
-| **Disparate Impact (DI)** | Ratio of favorable outcome probabilities between groups.<br><br>**DI = P(Ŷ = 1 \| a = 0) / P(Ŷ = 1 \| a = 1)** | 1 | **F1 Score** | 2 × (Precision × Recall) / (Precision + Recall) | 1 |
 
 ---
 
