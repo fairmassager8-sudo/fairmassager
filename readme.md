@@ -12,6 +12,10 @@ https://drive.google.com/drive/folders/18dfoTHx-2fT7ZDmwySMtLVl-rX5wMC7l?usp=sha
 ---
 
 ## Ablation Study Results
+To examine the individual contribution of each stage of FairMassager, we conduct an ablation study by separately evaluating the situation-testing and label-mitigation stages. The results indicate that both stages contribute to improving fairness, while their combination provides the overall benefit of FairMassager.
+https://docs.google.com/spreadsheets/d/1v24kDxrBTopvubpnzQHXbEVgTFhP9kSpc2uGaiXuZ2w/edit?gid=830016659#gid=830016659 
+
+
 
 The complete results of the ablation studies are available at:
 
