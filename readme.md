@@ -17,7 +17,7 @@ https://docs.google.com/spreadsheets/d/1v24kDxrBTopvubpnzQHXbEVgTFhP9kSpc2uGaiXu
 
 
 
-The complete results of the ablation studies are available at:
+## Supplementary results of FairMassager are available at:
 
 **Google Drive:**  
 https://drive.google.com/drive/folders/18dfoTHx-2fT7ZDmwySMtLVl-rX5wMC7l?usp=sharing
